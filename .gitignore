@@ -1,0 +1,41 @@
+# Unity
+/RaycastOdev/[Ll]ibrary/
+/RaycastOdev/[Tt]emp/
+/RaycastOdev/[Oo]bj/
+/RaycastOdev/[Bb]uild/
+/RaycastOdev/[Bb]uilds/
+/RaycastOdev/[Ll]ogs/
+/RaycastOdev/[Uu]ser[Ss]ettings/
+/RaycastOdev/[Mm]emoryCaptures/
+/RaycastOdev/[Rr]ecordings/
+
+# IDE
+/RaycastOdev/.vs/
+/RaycastOdev/.idea/
+/RaycastOdev/.vscode/
+
+# Dosya türleri
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build çıktıları
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crash loglar
+sysinfo.txt
+crashlytics-build.properties
